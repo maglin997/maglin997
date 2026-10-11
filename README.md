@@ -46,6 +46,7 @@ St. Joseph's College of Engineering, Chennai
 This is the conversation I want every project to have, from raw numbers to a business decision.
 
 ```mermaid
+%%{init: {'themeCSS': '[name="Z"] { opacity: 0 !important; }'}}%%
 sequenceDiagram
     autonumber
     participant D as 🗂️ Financial Data
