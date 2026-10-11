@@ -1,7 +1,7 @@
 <!-- ================================================================
   GITHUB PROFILE README  |  Maglin Vithusha
   REPLACE THESE 2 THINGS BEFORE PASTING:
-  1) Maglinvithusha@gmail.com  ->  your email (appears 2 times)
+  1) YOUR-EMAIL-ADDRESS  ->  your email (appears 2 times)
   2) YOUR-LINKEDIN-URL   ->  your LinkedIn profile link (appears 2 times)
   Profile repo name must be exactly your GitHub username: maglin997
 ================================================================= -->
@@ -14,7 +14,7 @@
 St. Joseph's College of Engineering, Chennai
 
 <a href="YOUR-LINKEDIN-URL">🔗 <b>LinkedIn</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="mailto:Maglinvithusha@gmail.com">✉️ <b>Email</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="mailto:YOUR-EMAIL-ADDRESS">✉️ <b>Email</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://github.com/maglin997">💻 <b>GitHub</b></a>
 
 </div>
@@ -41,33 +41,48 @@ St. Joseph's College of Engineering, Chennai
 
 <br/>
 
-## 🔄 From Raw Data to a Financial Decision
+## 🔄 How a Data Project Reaches a Decision
 
-This is the workflow I am training myself to follow on every project.
+This is the conversation I want every project to have, from raw numbers to a business decision.
 
 ```mermaid
-flowchart TD
-    A["🗂️ Raw financial data<br/>(prices, transactions, reports)"] --> B["🧹 Clean and validate"]
-    B --> C["🐍 Analyse with Python"]
-    C --> D["🤖 Build simple models"]
-    D --> E["📊 Visualise key findings"]
-    E --> F["💬 Explain clearly to decision-makers"]
-    F --> G["✅ Informed business decision"]
+sequenceDiagram
+    autonumber
+    participant D as 🗂️ Financial Data
+    participant M as 🐍 Maglin (Python)
+    participant S as 🤖 Model
+    participant B as 💼 Business Team
+    D->>M: Prices, transactions, reports
+    M->>M: Clean and validate
+    M->>S: Analysis-ready data
+    S-->>M: Patterns, risk scores, forecasts
+    M->>B: Clear charts and a plain-language summary
+    B-->>M: Questions and feedback
+    M->>B: Refined recommendation
+    Note over M,B: Insight becomes a decision
 ```
 
 <br/>
 
 ## 💹 Where My Interests Meet
 
-Finance, data and security overlap in more places than people expect. These are the areas of FinTech I want to explore.
+Finance, data and security overlap in more places than people expect. This map shows the areas of FinTech I want to explore.
 
 ```mermaid
-flowchart TD
-    C["💹 FinTech"]
-    C --> A["🛡️ Fraud detection and<br/>digital forensics"]
-    C --> B["📉 Risk and credit analysis"]
-    C --> D["📈 Market and investment analytics"]
-    C --> E["🔐 Secure digital payments"]
+mindmap
+  root((FinTech))
+    Fraud detection
+      Digital forensics
+      Unusual transaction patterns
+    Risk and credit
+      Credit scoring
+      Loan default prediction
+    Market analytics
+      Stock trends
+      Portfolio analysis
+    Secure payments
+      Data protection
+      Safe digital banking
 ```
 
 <br/>
@@ -116,8 +131,8 @@ flowchart TD
 
 I am happy to talk about **Python, Java, data science, FinTech and digital forensics**, and to collaborate on beginner-friendly projects.
 
-- ✉️ **Email:** [Maglinvithusha@gmail.com](mailto:Maglinvithusha@gmail.com)
-- 🔗 **LinkedIn:** [Maglin Vithusha](https://www.linkedin.com/in/maglin-vithusha-285a92432/))
+- ✉️ **Email:** [YOUR-EMAIL-ADDRESS](mailto:YOUR-EMAIL-ADDRESS)
+- 🔗 **LinkedIn:** [Maglin Vithusha](YOUR-LINKEDIN-URL)
 
 <div align="center">
 
