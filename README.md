@@ -131,8 +131,8 @@ mindmap
 
 I am happy to talk about **Python, Java, data science, FinTech and digital forensics**, and to collaborate on beginner-friendly projects.
 
-- ✉️ **Email:** [YOUR-EMAIL-ADDRESS](mailto:YOUR-EMAIL-ADDRESS)
-- 🔗 **LinkedIn:** [Maglin Vithusha](YOUR-LINKEDIN-URL)
+- ✉️ **Email:** [maglinvithusha@gmail.com](mailto:YOUR-EMAIL-ADDRESS)
+- 🔗 **LinkedIn:** [Maglin Vithusha](https://www.linkedin.com/in/maglin-vithusha-285a92432/)
 
 <div align="center">
 
