@@ -52,6 +52,7 @@ sequenceDiagram
     participant M as 🐍 Maglin (Python)
     participant S as 🤖 Model
     participant B as 💼 Business Team
+    participant Z as #160;
     D->>M: Prices, transactions, reports
     M->>M: Clean and validate
     M->>S: Analysis-ready data
@@ -131,7 +132,7 @@ mindmap
 
 I am happy to talk about **Python, Java, data science, FinTech and digital forensics**, and to collaborate on beginner-friendly projects.
 
-- ✉️ **Email:** [maglinvithusha@gmail.com](mailto:YOUR-EMAIL-ADDRESS)
+- ✉️ **Email:** [maglinvithusha@gmail.com](mailto:maglinvithusha@gmail.com)
 - 🔗 **LinkedIn:** [Maglin Vithusha](https://www.linkedin.com/in/maglin-vithusha-285a92432/)
 
 <div align="center">
