@@ -1,7 +1,7 @@
 <!-- ================================================================
   GITHUB PROFILE README  |  Maglin Vithusha
   REPLACE THESE 2 THINGS BEFORE PASTING:
-  1) YOUR-EMAIL-ADDRESS  ->  your email (appears 2 times)
+  1) Maglinvithusha@gmail.com  ->  your email (appears 2 times)
   2) YOUR-LINKEDIN-URL   ->  your LinkedIn profile link (appears 2 times)
   Profile repo name must be exactly your GitHub username: maglin997
 ================================================================= -->
@@ -14,7 +14,7 @@
 St. Joseph's College of Engineering, Chennai
 
 <a href="YOUR-LINKEDIN-URL">🔗 <b>LinkedIn</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="mailto:YOUR-EMAIL-ADDRESS">✉️ <b>Email</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="mailto:Maglinvithusha@gmail.com">✉️ <b>Email</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://github.com/maglin997">💻 <b>GitHub</b></a>
 
 </div>
@@ -116,8 +116,8 @@ flowchart TD
 
 I am happy to talk about **Python, Java, data science, FinTech and digital forensics**, and to collaborate on beginner-friendly projects.
 
-- ✉️ **Email:** [YOUR-EMAIL-ADDRESS](mailto:YOUR-EMAIL-ADDRESS)
-- 🔗 **LinkedIn:** [Maglin Vithusha](YOUR-LINKEDIN-URL)
+- ✉️ **Email:** [Maglinvithusha@gmail.com](mailto:Maglinvithusha@gmail.com)
+- 🔗 **LinkedIn:** [Maglin Vithusha](https://www.linkedin.com/in/maglin-vithusha-285a92432/))
 
 <div align="center">
 
